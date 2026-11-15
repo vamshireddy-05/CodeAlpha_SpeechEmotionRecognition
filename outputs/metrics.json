@@ -1,0 +1,40 @@
+{
+  "selected_epoch": 11,
+  "validation_accuracy": 0.4666666666666667,
+  "test_accuracy": 0.525,
+  "train_actors": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    9,
+    11,
+    12,
+    13,
+    14,
+    16,
+    18,
+    19,
+    21,
+    23,
+    24
+  ],
+  "validation_actors": [
+    5,
+    10,
+    17,
+    22
+  ],
+  "test_actors": [
+    3,
+    8,
+    15,
+    20
+  ],
+  "split_sizes": {
+    "train": 960,
+    "validation": 240,
+    "test": 240
+  }
+}
